@@ -2,11 +2,12 @@
 List of Research Sites
 
 - LinkedIn
+- Youtube
 
 List of Research Documents
 
 - Whitepaper
-
+- Diagrams
 
 
 
